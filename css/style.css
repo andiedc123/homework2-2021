@@ -1,7 +1,7 @@
 body{
     background: #000000;
     color: #ffffff;
-    font-family: "Times New Roman", "Ariel";
+    font-family: "Times New Roman", sans-serif;
 }
 
 h1{
@@ -45,6 +45,9 @@ div{
     background: #ffff00;
     text-align: right;
     color: #000000;
+}
+
+#yellow h2{
     text-shadow: 4px 4px 2px #c7e2c7;
 }
 
@@ -57,4 +60,5 @@ footer{
     text-align: center;
     padding-right: 10px;
     padding-bottom: 10px;
+    padding-top: 0px;
 }
